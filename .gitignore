@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-security-oauth2-resource/target/
+/spring-security-oauth2-server/target/
